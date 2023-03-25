@@ -53,8 +53,8 @@ global.ppulsa = '+94740686292' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
+global.nomorbot = '923191089077' //Nomor Bot
+global.nomorown = '923191089077' //Nomor Owner
 global.namebot = 'charitha WA-MD-v1' //Nama Bot
 global.nameown = 'charitha' // Nama Owner
 
