@@ -53,19 +53,19 @@ global.ppulsa = '+94740686292' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '923191089077' //Nomor Bot
-global.nomorown = '923191089077' //Nomor Owner
+global.nomorbot = '+94740686292' //Nomor Bot
+global.nomorown = '+94 76 719 2966' //Nomor Owner
 global.namebot = 'charitha WA-MD-v1' //Nama Bot
 global.nameown = 'charitha' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['94764497078', 'charitha', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['94764497078','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['+94 76 719 2966','+94 776263194','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -98,7 +98,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '「 wa-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sandaru- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘charitha- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'wa-ᴍᴅ-ᴠ𝟷'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 76 449 7078'
+global.phn = '+94740686292'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -172,8 +172,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 /*============== STICKER WM ==============*/
 global.stickpack = 'x_ikratos_x'
 global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ bot'
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ charitha'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ charitha'
 
 global.multiplier = 38 // The higher, The harder levelup
 
